@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-var event = require('event');
+var event = require('component-event');
 
 /**
  * Print iframe.

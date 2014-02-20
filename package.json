@@ -1,0 +1,10 @@
+{
+  "name": "viatropos-print",
+  "description": "Print component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component-event": "git://github.com/npmcomponent/component-event.git"
+  },
+  "license": "MIT"
+}
